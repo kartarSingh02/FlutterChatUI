@@ -1,16 +1,30 @@
-# flutter_chat_ui
+# Flutter Chat App
 
-A new Flutter project.
+This Flutter project is a simple chat app UI that consists of two main screens: the contacts screen and the message screen. It is designed to provide a user-friendly interface for managing contacts and sending messages.
+
+## Features
+
+- Contacts Screen: Displays a list of contacts, allowing users to view and interact with their contacts.
+- Message Screen: Provides a chat-like interface where users can view and send messages to their contacts.
+- Multiple Widgets: The project utilizes various Flutter widgets to create an interactive and visually appealing UI.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the Flutter chat app, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
+```
+git clone https://github.com/your-username/flutter-chat-app.git
+```
+2. Open the project in your preferred code editor or IDE.
+3. Run the app:
+```
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This will launch the app on your connected device or emulator.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+Contributions are welcome! If you find any bugs or want to suggest improvements, please open an issue or submit a pull request.
+
+
